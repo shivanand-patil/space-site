@@ -1,0 +1,36 @@
+@font-face {
+	src: url("AndromedaSpace-BoldItalic.ttf");
+	font-family: nasa;
+}
+body {
+	background-image: url("https://thumbs.gfycat.com/AgreeableShortGuppy.webp");
+	background-size: cover;
+	margin: 0;
+	text-align: center;
+	color: #ef7302;
+	font-family: nasa;
+}
+.btn {
+	padding: 4px 8px 4px 8px;
+	font-family: inherit;
+	background-color: #000001;
+	color: #0d87d2;
+	font-weight:1500;
+
+}
+#logo{
+	width:120px;
+}
+.hero {
+	padding: 10px 0px 20px 0px;
+	text-shadow: 5px -5px 5px black;
+	font-weight: bolder;
+
+
+}
+.span {
+	text-decoration: underline #0d87d2;
+}
+#title {
+    text-shadow: 0px 0px 4px black;
+}
